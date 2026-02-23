@@ -94,7 +94,6 @@ public class Personaje {
         this.res = copia.res;
         this.vel = copia.vel;
         this.raza = copia.raza;
-        this.raza = copia.raza;
     }
 
     /**
@@ -379,8 +378,10 @@ public class Personaje {
         else return true;
     }
 
-    public void devuelveEstadísticas(){
-
+    public String devuelveEstadísticas(){
+        String resultado = "PV:" + getPv() + "ATQ" + getAtq() + "ARM" + getArm()
+                + "VEL" + getVel() + "RES" + getRes();
+        return devuelveEstadísticas();
     }
 
     public void defender(int daño, String tipoDaño){

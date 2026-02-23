@@ -10,6 +10,8 @@ package Personajes.Subclases;
 
 import Personajes.Personaje;
 
+import java.awt.*;
+
 public class Cazador extends Personaje {
 
     private mascota mascota; /** Atributo tipo mascota que define la mascota del personaje */
@@ -33,8 +35,8 @@ public class Cazador extends Personaje {
      * @param vel Velocidad.
      * @param raza Raza del personaje.
      */
-    public Cazador(String nombre, int atq, int arm, int pv, int nivel, int res, int vel, String raza) {
-        super(nombre, atq, arm, pv, nivel, res, vel, raza);
+    public Cazador(String nombre, int atq, int arm, int pv, int nivel, int res, int vel, String raza, String clase) {
+        super(nombre, atq, arm, pv, nivel, res, vel, raza, clase);
     }
 
     /**

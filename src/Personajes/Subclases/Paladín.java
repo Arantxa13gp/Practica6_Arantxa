@@ -6,8 +6,8 @@ public class Paladín extends Creyente{
         super();
     }
 
-    public Paladín(String nombre, int atq, int arm, int pv,int nivel, int res, int vel, String raza, int fe){
-        super(nombre, atq, arm, pv, nivel, res, vel, raza);
+    public Paladín(String nombre, int atq, int arm, int pv,int nivel, int res, int vel, String raza, int fe,String clase){
+        super(nombre, atq, arm, pv, nivel, res, vel, raza, clase);
         this.setFe(fe);
     }
 

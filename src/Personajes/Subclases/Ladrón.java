@@ -29,8 +29,8 @@ public class Ladrón extends Personaje {
      * @param vel Velocidad inicial.
      * @param raza Raza a la que pertenece el ladrón.
      */
-    public Ladrón(String nombre, int atq, int arm, int pv,int nivel, int res, int vel, String raza){
-        super(nombre, atq, arm, pv,nivel,res, vel, raza);
+    public Ladrón(String nombre, int atq, int arm, int pv,int nivel, int res, int vel, String raza, String clase){
+        super(nombre, atq, arm, pv,nivel,res, vel, raza, clase);
     }
 
     /**

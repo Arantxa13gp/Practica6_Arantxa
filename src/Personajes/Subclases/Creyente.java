@@ -32,8 +32,8 @@ public abstract class Creyente extends Personaje {
      * @param vel Velocidad inicial.
      * @param raza Raza a la que pertenece el creyente.
      */
-    public Creyente(String nombre, int atq, int arm, int pv,int nivel, int res, int vel, String raza){
-        super(nombre, atq, arm, pv, nivel, res, vel, raza);
+    public Creyente(String nombre, int atq, int arm, int pv,int nivel, int res, int vel, String raza, String clase){
+        super(nombre, atq, arm, pv, nivel, res, vel, raza, clase);
         setFe(fe);
     }
 
