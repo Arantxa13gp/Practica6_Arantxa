@@ -46,9 +46,10 @@ public class Personaje {
      * @param nombre El nombre del personaje.
      * @param nivel El nivel que alcanzará el personaje tras su creación.
      */
-    public Personaje(String nombre, int nivel){
+    public Personaje(String nombre, String raza, int nivel){
         this.nombre = nombre;
-        nivel = 1;
+        this.nivel = nivel;
+        this.raza = raza;
         atq = arm = vel = res = 10;
         pv = 100;
         for (int i = 0; i <nivel; i++){

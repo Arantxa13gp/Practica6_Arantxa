@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f0bbd9-5f4f-456e-9d9f-73830dd2cb53" name="Changes" comment="Primer commit">
+    <list default="true" id="e8f0bbd9-5f4f-456e-9d9f-73830dd2cb53" name="Changes" comment="Segundo commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameLogger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Personajes/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Personaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Cazador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Cazador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Clérigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Clérigo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Creyente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Creyente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Ladrón.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Ladrón.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Monstruo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Monstruo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Paladín.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Paladín.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1771604434372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segundo commit">
+      <created>1771871217984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771871217984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
+    <MESSAGE value="Segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit" />
   </component>
 </project>
