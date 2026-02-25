@@ -14,7 +14,10 @@ public class GameLogger {
         bw.close();
     }
 
-
+        public static void fichasGrupo(Personaje [] grupo, String nombreFichero) throws IOException{
+            BufferedWriter bw = new BufferedWriter(new FileWriter("./Ficheros/" + nombreFichero + ".txt"));
+            bw.close();
+    }
 
 
 }
