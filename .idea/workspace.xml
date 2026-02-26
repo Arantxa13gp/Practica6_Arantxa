@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e8f0bbd9-5f4f-456e-9d9f-73830dd2cb53" name="Changes" comment="Segundo commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Cazador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Cazador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Monstruo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Monstruo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +40,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/tarde/Documentos/Programacion/Practicas/Practica6_Arantxa"
+    "last_opened_file_path": "/home/tarde/Documentos/Programacion/Practicas/Practica6_Arantxa/src/Personajes/Subclases"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Personajes/Subclases" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1772033286897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Segundo commit">
+      <created>1772034693004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772034693004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
