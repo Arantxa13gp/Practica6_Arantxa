@@ -16,8 +16,16 @@ public class GameLogger {
 
         public static void fichasGrupo(Personaje [] grupo, String nombreFichero) throws IOException{
             BufferedWriter bw = new BufferedWriter(new FileWriter("./Ficheros/" + nombreFichero + ".txt"));
+
+            for(int i = 0; i <= grupo.length; i++){
+                bw.write("Nombre:" + grupo[i].getNombre());
+                bw.write("Clase:" + grupo[i].getClase());
+                bw.write("Raza:" + grupo[i].getRaza());
+                bw.write("Nivel:" + grupo[i].getNivel());
+            }
             bw.close();
     }
+
 
 
 }

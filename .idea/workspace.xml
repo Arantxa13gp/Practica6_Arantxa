@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f0bbd9-5f4f-456e-9d9f-73830dd2cb53" name="Changes" comment="Segundo commit">
+    <list default="true" id="e8f0bbd9-5f4f-456e-9d9f-73830dd2cb53" name="Changes" comment="Tercer commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Cazador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Cazador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Subclases/Monstruo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Subclases/Monstruo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameLogger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/tarde/Documentos/Programacion/Practicas/Practica6_Arantxa/src/Personajes/Subclases"
+    "last_opened_file_path": "/home/tarde/Documentos/Programacion/Practicas/Practica6_Arantxa"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -100,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1772034693004</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tercer commit">
+      <created>1772133586857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772133586857</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
     <MESSAGE value="Segundo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit" />
+    <MESSAGE value="Tercer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tercer commit" />
   </component>
 </project>
