@@ -39,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/tarde/Documentos/Programacion/Practicas/Practica6_Arantxa"
+    "last_opened_file_path": "/home/tarde/Documentos/Programacion/Actividades/ActividadesT7"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1772133586857</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tercer commit">
+      <created>1772476216505</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772476216505</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
